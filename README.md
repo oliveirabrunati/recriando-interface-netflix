@@ -12,4 +12,3 @@ Desafio de projeto do Bootcamp da Digital Innovation One, no qual propõe recria
 
 - HTML
 - CSS
-- JavaScript
